@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExploreDarkDataWithSSMLS">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-8Q505NM\CODOT:DESKTOP-8Q505NM\olive">
+          <Created>2017-09-06T09:51:39.7749907+01:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-8Q505NM\CODOT</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>worldcities</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Python_Example.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8Q505NM\CODOT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8Q505NM\CODOT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Python_Example.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Python_LinearModelExample.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8Q505NM\CODOT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8Q505NM\CODOT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Python_LinearModelExample.sql</FullPath>
+        </FileNode>
+        <FileNode Name="R_DecisionTreeExample.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8Q505NM\CODOT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8Q505NM\CODOT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>R_DecisionTreeExample.sql</FullPath>
+        </FileNode>
+        <FileNode Name="R_Example.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8Q505NM\CODOT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8Q505NM\CODOT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>R_Example.sql</FullPath>
+        </FileNode>
+        <FileNode Name="R_SearchTwitter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8Q505NM\CODOT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8Q505NM\CODOT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>R_SearchTwitter.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

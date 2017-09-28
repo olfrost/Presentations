@@ -1,0 +1,30 @@
+VariableNames,VarType,Storage,VariableLabels,ValueNums,ValueLabels
+ACCEL,numeric,float64,Time to Accelerate from 0 to 60 mph (sec),NA,NA
+CYLINDER,numeric,float64,Number of Cylinders,3,3 Cylinders
+CYLINDER,numeric,float64,Number of Cylinders,4,4 Cylinders
+CYLINDER,numeric,float64,Number of Cylinders,5,5 Cylinders
+CYLINDER,numeric,float64,Number of Cylinders,6,6 Cylinders
+CYLINDER,numeric,float64,Number of Cylinders,8,8 Cylinders
+ENGINE,numeric,float64,Engine Displacement (cu. inches),NA,NA
+FILTER_$,numeric,float64,cylrec = 1 | cylrec = 2 (FILTER),0,Not Selected
+FILTER_$,numeric,float64,cylrec = 1 | cylrec = 2 (FILTER),1,Selected
+HORSE,numeric,float64,Horsepower,NA,NA
+MPG,numeric,float64,Miles per Gallon,NA,NA
+ORIGIN,numeric,float64,Country of Origin,1,American
+ORIGIN,numeric,float64,Country of Origin,2,European
+ORIGIN,numeric,float64,Country of Origin,3,Japanese
+WEIGHT,numeric,float64,Vehicle Weight (lbs.),NA,NA
+YEAR,numeric,float64,Model Year (modulo 100),0,0 (Missing)
+YEAR,numeric,float64,Model Year (modulo 100),70,70
+YEAR,numeric,float64,Model Year (modulo 100),71,71
+YEAR,numeric,float64,Model Year (modulo 100),72,72
+YEAR,numeric,float64,Model Year (modulo 100),73,73
+YEAR,numeric,float64,Model Year (modulo 100),74,74
+YEAR,numeric,float64,Model Year (modulo 100),75,75
+YEAR,numeric,float64,Model Year (modulo 100),76,76
+YEAR,numeric,float64,Model Year (modulo 100),77,77
+YEAR,numeric,float64,Model Year (modulo 100),78,78
+YEAR,numeric,float64,Model Year (modulo 100),79,79
+YEAR,numeric,float64,Model Year (modulo 100),80,80
+YEAR,numeric,float64,Model Year (modulo 100),81,81
+YEAR,numeric,float64,Model Year (modulo 100),82,82
